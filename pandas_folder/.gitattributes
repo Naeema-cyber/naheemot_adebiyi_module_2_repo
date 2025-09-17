@@ -1,2 +1,0 @@
-sales_data.xls filter=lfs diff=lfs merge=lfs -text
-Sales_Data.xlsx filter=lfs diff=lfs merge=lfs -text
