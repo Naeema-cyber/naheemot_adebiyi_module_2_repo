@@ -42,3 +42,9 @@ tornado==6.5.2
 traitlets==5.14.3
 tzdata==2025.2
 wcwidth==0.2.13
+pydantic==2.10.11
+fastapi==0.101.1
+uvicorn==0.24.0
+httpx==0.24.1
+dotenv==1.0.0
+python-dotenv==1.0.0

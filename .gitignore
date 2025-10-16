@@ -7,3 +7,6 @@ borrowhistory.csv
 departments.csv
 librarystaff.csv
 members.csv
+.env
+my_venv
+requirements.txt
